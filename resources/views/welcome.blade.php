@@ -188,7 +188,7 @@
             <h2 class="mb-4">您可以贊助ETH讓平台更長久:</h2>
           </div>
           <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-            <h2 class="mb-4">0x4d51dec5c097ff99705a9e762b9850a3fed81a2e</h2>
+            <h2 class="mb-4">0x6DAF4cf7943101F4471dD5B84A8F1209C8cA7946</h2>
           </div>
         </div>
       </div>
